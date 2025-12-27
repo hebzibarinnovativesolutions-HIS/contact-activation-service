@@ -1,6 +1,6 @@
 # HVA Contact Activation Service
 
-![Logo](assets/logo.png)
+!(assets/logo.png)
 
 Instant contacts for outreach testing and integration.
 
